@@ -1,7 +1,3 @@
-max = 0
-idx = 0
-for i in range(10):
-    if a > max:
-        max = a
-        idx = i+1
-print(max, idx)
+a = int(input())
+for i in range(1, 6):
+	prnt(i)
